@@ -1,4 +1,4 @@
-# Tupper's self-referencial Formula (TSRF)
+# Tupper's self-referential Formula (TSRF)
 This is a simple but versatile implementation of the formula.
 
 ## What is TSRF?
